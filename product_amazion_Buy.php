@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Buy In Amazon Custom By Walid
+Plugin Name: Buy In Amazon Custom
 Description: Buy In Amazon Custom. Sharmin PHP Developer And Walid
 Version: 1.0
 Author: Sharmin PHP Developer ANd Walid
